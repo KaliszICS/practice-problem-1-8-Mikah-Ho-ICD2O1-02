@@ -2,7 +2,7 @@
   Lesson: Boolean Logic
   Author: Mikah Ho
   Date Created: Sept 26, 2024
-  Date Last Modified: Sept 26, 2024
+  Date Last Modified: Sept 28, 2024
 '''
 
 def q1():
@@ -37,8 +37,8 @@ def q5():
 #Do not edit code after this
 #Comment out the following code when running tests
 
-# q1()
-# q2()
-# q3()
-# q4()
-# q5()
+q1()
+q2()
+q3()
+q4()
+q5()
